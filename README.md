@@ -15,12 +15,35 @@ It is an award-winning global fellowship program aimed at bringing more diversit
 
 Google Women Techmakers:
 
+[Description](https://www.womentechmakers.com/scholars)
 
 
-Facebook Grace Hoppers
 
-IncludeSHE++
 
-OutReachy
+Facebook Grace Hoppers:
 
-SHEforHE
+[Description](https://www.facebook.com/careers/program/gracehopper2017/)
+
+
+
+IncludeSHE++:
+
+
+[Description](www.sheplusplus.com/include/)
+
+
+OutReachy:
+
+[Description](https://www.outreachy.org/)
+
+
+HEforSHE:
+
+[Description](https://en.wikipedia.org/wiki/HeForShe)
+
+
+Django Girls:
+
+[Description](https://en.wikipedia.org/wiki/HeForShe)
+
+
