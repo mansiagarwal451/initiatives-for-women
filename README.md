@@ -30,7 +30,7 @@ Facebook Grace Hoppers:
 Facebook is committed to advancing women in technology, and with this unique program, scholarships will be awarded to 50 women excelling in Computer Science. Each recipient will have the opportunity not only to attend the Celebration, but to spend valuable days before the conference with Facebook engineers learning, collaborating, and preparing for the conference. [Description](https://www.facebook.com/careers/program/gracehopper2017/)
 
 
-
+![Logo](https://static.youthop.com/uploads/2017/05/facebook-grace-hopper-scholarship-2017.jpg)
 
 
 
