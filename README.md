@@ -18,6 +18,8 @@ Google Women Techmakers:
 Through the Women Techmakers Scholars Program - formerly the Google Anita Borg Memorial Scholarship Program - Google is furthering Dr. Anita Borg’s vision of creating gender equality in the field of computer science by encouraging women to excel in computing and technology and become active leaders and role models in the field. To extend Dr. Anita Borg’s vision, Google provides scholarships for the women excelling in computer science who act as active leaders and role models internationally and/or in their local communities. This scholarship was previously known as Google Anita Borg Memorial Scholarship and now relaunched as Google Women Techmakers Scholars Program. [Description](https://www.womentechmakers.com/scholars)
 
 
+![Logo](https://www.opportunitiesforafricans.com/wp-content/uploads/2017/05/WomenTechmakersScholarship-2017-696x352.png)
+
 
 
 
