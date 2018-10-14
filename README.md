@@ -59,7 +59,8 @@ HeForShe (often referred to as He for She) is a solidarity campaign for the adva
 
 Django Girls:
 
-Django Girls is a non-profit organization and a community that empowers and helps women to organize free, one-day programming workshops by providing tools, resources and support. It is a volunteer run organization with hundreds of people contributing to bring more amazing women into the world of technology. They are making technology more approachable by creating resources designed with empathy. During each of their events, 30-60 women build their first web application using HTML, CSS, Python and Django. [Description](https://en.wikipedia.org/wiki/HeForShe)
+Django Girls is a non-profit organization and a community that empowers and helps women to organize free, one-day programming workshops by providing tools, resources and support. It is a volunteer run organization with hundreds of people contributing to bring more amazing women into the world of technology. They are making technology more approachable by creating resources designed with empathy. During each of their events, 30-60 women build their first web application using HTML, CSS, Python and Django. It inspires women to fall in love with programming.It organizes free Python and Django workshops, creates open sourced online tutorials and curates amazing first experiences with technology.[Description](https://en.wikipedia.org/wiki/HeForShe)
+
 
 
 
